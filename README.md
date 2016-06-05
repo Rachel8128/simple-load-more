@@ -1,5 +1,5 @@
 # simple-load-more
-Simple load more data using ajax and php
+Load more results from database using jQuery Ajax and PHP
 
 ##Usage
   Change database configuration file - includes/config.php
